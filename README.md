@@ -1,4 +1,4 @@
-# Host Discovery
+# Host Discovery - ICMP Scan
 
 ## Descripción
 Este script realiza un escaneo rápido de hosts en una red local mediante el comando "ping". Detecta dispositivos activos dentro de un rango de direcciones IP especificado.
