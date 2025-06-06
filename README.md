@@ -34,6 +34,3 @@ python3 script.py -t 192.168.1.1-100
 ```
 [!] Saliendo...
 ```
-
-## Advertencia
-El uso no autorizado de este script puede violar políticas de red y privacidad. Úselo solo en redes donde tenga permiso.
